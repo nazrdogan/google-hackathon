@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: Google Directions module provides simple routing functions using Google Directions API.
+author: Alexander Bauer
+license: This module is free for use in any app.
+copyright: Copyright (c) 2012 by codeWire
+
+
+# these should not be edited
+name: googledirections
+moduleid: de.codewire.google.directions
+guid: 40c9ddd5-4eeb-4423-ad6d-13b71c3a980e
+platform: android
+minsdk: 2.1.0.GA
+commonjs: true
